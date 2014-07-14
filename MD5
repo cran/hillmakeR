@@ -1,0 +1,12 @@
+891e190017b85397daa5fe8ba2f626b9 *DESCRIPTION
+0c12dfdbd4189fe5b431f56df5068a63 *LICENSE
+3720a14b0c290ada9af5c2e0bc881c10 *NAMESPACE
+c6d58d6400617744b1a770c18351b9d8 *R/hflightsexample.R
+5e8db165a080a6bf62df28a6cadcbfad *R/hillmakeR.R
+c2321a6473150ab60ecaa3e393456b59 *R/occupancy.R
+02e3e5d321f70a731e98a29e012d59d5 *README.md
+3bde89e9f62caca8a3c49783ece278c7 *data/hflightsdata.rda
+a6cfd44bf7c31a7608eb498e126e5799 *man/hflights.Rd
+ab575117cae3913f5cc3c67c871b861b *man/hillmakeR-package.Rd
+b7160f92c39de4564a1de79b1aadcfd2 *man/occupancy.Rd
+6be1bc7a790d650b30adfbb97a7401d9 *src/hillmakeR.c
